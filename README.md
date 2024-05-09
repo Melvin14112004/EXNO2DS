@@ -174,5 +174,5 @@ sns.pairplot(dt)
 ![i20](https://github.com/silambarasan2004/EXNO2DS/assets/119559917/1ac874ab-6bd4-4a5f-bebe-a5f403832beb)
 
 
-# RESULT:
+## RESULT:
        Thus,the Exploratory Data Analysis on the given data set was performed successfully.
